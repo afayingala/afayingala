@@ -138,7 +138,7 @@ Built a full-stack platform for monitoring mobile network performance and user e
 ## 📫 Connect With Me  
 
 💻 GitHub: https://github.com/afayingala  
-💼 LinkedIn: [Add your link]  
+💼 LinkedIn: www.linkedin.com/in/afayi-ngala-434b88280 
 📧 Email: afayingala67@gmail.com  
 
 ---
